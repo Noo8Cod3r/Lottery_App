@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import './LotteryBall.css'
+
 
 
 export default class LotteryBall extends Component {
